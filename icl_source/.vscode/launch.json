@@ -1,0 +1,39 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python Debugger: ceil",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/data/syf/wyx/icl_source/retriever_trainer.py",
+            "python":"/data/syf/anaconda3/envs/icl/bin/python",
+            "args": [
+                "hydra.run.dir", "output/epr/mrpc/gpt2-large/bert-fix_ctx-shared-bs64/trainer",
+                "task_name", "mrpc",
+                "dataset_reader.dataset_path", "scoered_file=output/epr/mrpc/gpt2-large/scored.json",
+                "index_reader.dataset_path", "index_data/mrpc/index_dataset.json",
+                "training_args.output_dir", "output/epr/mrpc/gpt2-large/bert-fix_ctx-shared-bs64",
+                "training_args.run_name", "bert-fix_ctx-shared-bs64",
+                "model_config.ctx_model_name", "null"
+            ],
+            "console": "integratedTerminal",
+            "env": {
+                "CONDA_DEFAULT_ENV": "icl",
+                "WANDB_PROJECT": "ICL",
+                "WANDB_ENTITY":  "yuxiang_23_university_of_illinois_urbana_champaign_org",
+                "WANDB_API_KEY": "c372f8378f45ad2d2d6839b40dcc28f1aaf4b58f",
+                "WANDB_START_METHOD":"thread",
+                "TOKENIZERS_PARALLELISM": "false",
+                "HYDRA_FULL_ERROR": "1",
+                "WANDB_MODE": "offline",
+                "CUDA_VISIBLE_DEVICES":"0",
+                "WANDB_TAGS": "epr,mrpc,gpt2-large",
+                },
+            "cwd": "/data/syf/wyx/icl-source"
+        }
+    ]
+}

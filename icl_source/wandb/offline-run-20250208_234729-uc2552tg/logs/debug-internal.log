@@ -1,0 +1,14 @@
+{"time":"2025-02-08T23:47:30.26602709+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wyx/icl_source/wandb/offline-run-20250208_234729-uc2552tg/logs/debug-core.log"}
+{"time":"2025-02-08T23:47:30.475523204+08:00","level":"INFO","msg":"created new stream","id":"uc2552tg"}
+{"time":"2025-02-08T23:47:30.475593256+08:00","level":"INFO","msg":"stream: started","id":"uc2552tg"}
+{"time":"2025-02-08T23:47:30.47561344+08:00","level":"INFO","msg":"handler: started","stream_id":"uc2552tg"}
+{"time":"2025-02-08T23:47:30.475682304+08:00","level":"INFO","msg":"sender: started","stream_id":"uc2552tg"}
+{"time":"2025-02-08T23:47:30.475713174+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"uc2552tg"}
+{"time":"2025-02-08T23:47:30.480657133+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-08T23:49:22.375323808+08:00","level":"INFO","msg":"stream: closing","id":"uc2552tg"}
+{"time":"2025-02-08T23:49:22.37537605+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-08T23:49:22.376090808+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-08T23:49:22.376312835+08:00","level":"INFO","msg":"handler: closed","stream_id":"uc2552tg"}
+{"time":"2025-02-08T23:49:22.376337768+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"uc2552tg"}
+{"time":"2025-02-08T23:49:22.376399508+08:00","level":"INFO","msg":"sender: closed","stream_id":"uc2552tg"}
+{"time":"2025-02-08T23:49:22.376447+08:00","level":"INFO","msg":"stream: closed","id":"uc2552tg"}

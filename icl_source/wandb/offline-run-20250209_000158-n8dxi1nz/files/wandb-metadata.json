@@ -1,0 +1,97 @@
+{
+  "os": "Linux-5.4.0-193-generic-x86_64-with-glibc2.31",
+  "python": "CPython 3.9.0",
+  "startedAt": "2025-02-08T16:01:58.758330Z",
+  "args": [
+    "hydra.run.dir=output/dpp-epr-random/mrpc/gpt2-large/base-mg0.02-s0.1-fix/trainer",
+    "task_name=mrpc",
+    "pair_wise=true",
+    "dataset_reader.dataset_path=output/dpp-epr-random/mrpc/gpt2-large/scored.json",
+    "index_reader.dataset_path=index_data/mrpc/index_dataset.json",
+    "training_args.output_dir=output/dpp-epr-random/mrpc/gpt2-large/base-mg0.02-s0.1-fix",
+    "training_args.run_name=base-mg0.02-s0.1-fix",
+    "pretrained_model_path=output/epr/mrpc/gpt2-large/bert-fix_ctx-shared-bs64",
+    "training_args.num_train_epochs=30",
+    "training_args.per_device_train_batch_size=64",
+    "training_args.per_device_eval_batch_size=64",
+    "training_args.gradient_accumulation_steps=1",
+    "model_config.dpp_training=true",
+    "model_config.norm_embed=true",
+    "model_config.margin=0.02",
+    "model_config.scale_factor=0.1"
+  ],
+  "program": "/data/syf/wyx/icl_source/retriever_trainer.py",
+  "codePath": "retriever_trainer.py",
+  "root": "/data/syf/wyx/icl_source",
+  "host": "ubuntu",
+  "executable": "/data/syf/anaconda3/envs/icl/bin/python",
+  "codePathLocal": "retriever_trainer.py",
+  "cpu_count": 192,
+  "cpu_count_logical": 384,
+  "gpu": "NVIDIA A800 80GB PCIe",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "469771632640",
+      "used": "337355460608"
+    }
+  },
+  "memory": {
+    "total": "1081895907328"
+  },
+  "cpu": {
+    "count": 192,
+    "countLogical": 384
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.1"
+}

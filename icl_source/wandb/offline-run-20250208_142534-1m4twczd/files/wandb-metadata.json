@@ -1,0 +1,20 @@
+{
+  "os": "Linux-5.4.0-193-generic-x86_64-with-glibc2.31",
+  "python": "CPython 3.9.0",
+  "startedAt": "2025-02-08T06:25:35.296959Z",
+  "args": [
+    "hydra.run.dir=output/epr/mrpc/gpt2-large/bert-fix_ctx-shared-bs64/trainer",
+    "task_name=mrpc",
+    "dataset_reader.dataset_path=output/epr/mrpc/gpt2-large/scored.json",
+    "index_reader.dataset_path=index_data/mrpc/index_dataset.json",
+    "training_args.output_dir=output/epr/mrpc/gpt2-large/bert-fix_ctx-shared-bs64",
+    "training_args.run_name=bert-fix_ctx-shared-bs64",
+    "model_config.ctx_model_name=null"
+  ],
+  "program": "/data/syf/wyx/icl_source/retriever_trainer.py",
+  "codePath": "retriever_trainer.py",
+  "root": "/data/syf/wyx/icl_source",
+  "host": "ubuntu",
+  "executable": "/data/syf/anaconda3/envs/icl/bin/python",
+  "codePathLocal": "retriever_trainer.py"
+}

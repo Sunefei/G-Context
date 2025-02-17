@@ -1,0 +1,7 @@
+{"time":"2025-02-08T23:16:14.192605282+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wyx/icl_source/wandb/offline-run-20250208_231613-zuql4din/logs/debug-core.log"}
+{"time":"2025-02-08T23:16:14.401653047+08:00","level":"INFO","msg":"created new stream","id":"zuql4din"}
+{"time":"2025-02-08T23:16:14.401723098+08:00","level":"INFO","msg":"stream: started","id":"zuql4din"}
+{"time":"2025-02-08T23:16:14.401742095+08:00","level":"INFO","msg":"handler: started","stream_id":"zuql4din"}
+{"time":"2025-02-08T23:16:14.401835893+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"zuql4din"}
+{"time":"2025-02-08T23:16:14.401826394+08:00","level":"INFO","msg":"sender: started","stream_id":"zuql4din"}
+{"time":"2025-02-08T23:16:14.408607098+08:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,7 @@
+{"time":"2025-02-07T15:58:05.307218737+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wyx/icl_source/wandb/offline-run-20250207_155805-gr33fm3g/logs/debug-core.log"}
+{"time":"2025-02-07T15:58:05.415619784+08:00","level":"INFO","msg":"created new stream","id":"gr33fm3g"}
+{"time":"2025-02-07T15:58:05.415664902+08:00","level":"INFO","msg":"stream: started","id":"gr33fm3g"}
+{"time":"2025-02-07T15:58:05.415713582+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gr33fm3g"}
+{"time":"2025-02-07T15:58:05.415761075+08:00","level":"INFO","msg":"handler: started","stream_id":"gr33fm3g"}
+{"time":"2025-02-07T15:58:05.415921363+08:00","level":"INFO","msg":"sender: started","stream_id":"gr33fm3g"}
+{"time":"2025-02-07T15:58:05.423245935+08:00","level":"INFO","msg":"Starting system monitor"}
