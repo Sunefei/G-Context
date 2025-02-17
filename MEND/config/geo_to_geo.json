@@ -1,0 +1,10 @@
+{
+    "train": [
+      "geoquery"
+    ],
+    "test":[
+      "geoquery"
+    ], 
+    "unseen_domain_test": [
+    ]
+  }

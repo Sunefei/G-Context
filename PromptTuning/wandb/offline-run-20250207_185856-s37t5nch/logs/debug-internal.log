@@ -1,0 +1,14 @@
+{"time":"2025-02-07T18:58:56.835114981+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250207_185856-s37t5nch/logs/debug-core.log"}
+{"time":"2025-02-07T18:58:57.043786486+08:00","level":"INFO","msg":"created new stream","id":"s37t5nch"}
+{"time":"2025-02-07T18:58:57.043831604+08:00","level":"INFO","msg":"stream: started","id":"s37t5nch"}
+{"time":"2025-02-07T18:58:57.043915902+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"s37t5nch"}
+{"time":"2025-02-07T18:58:57.044025134+08:00","level":"INFO","msg":"handler: started","stream_id":"s37t5nch"}
+{"time":"2025-02-07T18:58:57.043946772+08:00","level":"INFO","msg":"sender: started","stream_id":"s37t5nch"}
+{"time":"2025-02-07T18:58:57.049164985+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T18:59:00.551106765+08:00","level":"INFO","msg":"stream: closing","id":"s37t5nch"}
+{"time":"2025-02-07T18:59:00.551202937+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-07T18:59:00.552057798+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-07T18:59:00.552216897+08:00","level":"INFO","msg":"handler: closed","stream_id":"s37t5nch"}
+{"time":"2025-02-07T18:59:00.552233519+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s37t5nch"}
+{"time":"2025-02-07T18:59:00.552239456+08:00","level":"INFO","msg":"sender: closed","stream_id":"s37t5nch"}
+{"time":"2025-02-07T18:59:00.552354624+08:00","level":"INFO","msg":"stream: closed","id":"s37t5nch"}

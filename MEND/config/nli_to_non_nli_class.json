@@ -1,0 +1,31 @@
+{
+  "train": [
+    "anli",
+    "glue-mnli",
+    "glue-qnli",
+    "glue-rte",
+    "glue-wnli",
+    "scitail",
+    "sick",
+    "superglue-cb"
+  ],
+  "test": [
+    "ag_news",
+    "tweet_eval-stance_atheism",
+    "tweet_eval-hate",
+    "tab_fact",
+    "financial_phrasebank",
+    "hate_speech18",
+    "amazon_polarity",
+    "tweet_eval-stance_feminist",
+    "ethos-religion",
+    "ethos-race",
+    "poem_sentiment",
+    "climate_fever",
+    "emo",
+    "yelp_polarity",
+    "ethos-national_origin",
+    "wiki_qa",
+    "medical_questions_pairs"
+  ]
+}

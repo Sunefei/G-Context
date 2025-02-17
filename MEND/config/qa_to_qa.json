@@ -1,0 +1,10 @@
+{
+  "train": [
+    "web_questions"
+  ],
+  "test": [
+    "web_questions"
+  ],
+  "unseen_domain_test": [
+  ]
+}

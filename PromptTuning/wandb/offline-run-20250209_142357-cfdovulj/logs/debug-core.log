@@ -1,0 +1,13 @@
+{"time":"2025-02-09T14:23:58.04921239+08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpch4eccjd/port-203079.txt","pid":203079,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-02-09T14:23:58.050208545+08:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":203079}
+{"time":"2025-02-09T14:23:58.050172926+08:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":35285,"Zone":""}}
+{"time":"2025-02-09T14:23:58.227296236+08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.318060356+08:00","level":"INFO","msg":"handleInformInit: received","streamId":"cfdovulj","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.431014163+08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"cfdovulj","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.517474275+08:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.51760013+08:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.517655934+08:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-02-09T14:23:58.517785351+08:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.588056453+08:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.588084949+08:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:51994"}
+{"time":"2025-02-09T14:23:58.588098009+08:00","level":"INFO","msg":"server is closed"}

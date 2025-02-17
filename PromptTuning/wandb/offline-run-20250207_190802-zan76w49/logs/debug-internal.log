@@ -1,0 +1,15 @@
+{"time":"2025-02-07T19:08:02.52679561+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250207_190802-zan76w49/logs/debug-core.log"}
+{"time":"2025-02-07T19:08:02.635608877+08:00","level":"INFO","msg":"created new stream","id":"zan76w49"}
+{"time":"2025-02-07T19:08:02.635689614+08:00","level":"INFO","msg":"stream: started","id":"zan76w49"}
+{"time":"2025-02-07T19:08:02.635803596+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"zan76w49"}
+{"time":"2025-02-07T19:08:02.635846339+08:00","level":"INFO","msg":"sender: started","stream_id":"zan76w49"}
+{"time":"2025-02-07T19:08:02.635921139+08:00","level":"INFO","msg":"handler: started","stream_id":"zan76w49"}
+{"time":"2025-02-07T19:08:02.701644604+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T19:38:02.907499143+08:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":22}
+{"time":"2025-02-07T19:38:02.915976681+08:00","level":"INFO","msg":"stream: closing","id":"zan76w49"}
+{"time":"2025-02-07T19:38:02.916011113+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-07T19:38:02.916951479+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-07T19:38:02.917074961+08:00","level":"INFO","msg":"handler: closed","stream_id":"zan76w49"}
+{"time":"2025-02-07T19:38:02.917089209+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zan76w49"}
+{"time":"2025-02-07T19:38:02.917111768+08:00","level":"INFO","msg":"sender: closed","stream_id":"zan76w49"}
+{"time":"2025-02-07T19:38:02.917231689+08:00","level":"INFO","msg":"stream: closed","id":"zan76w49"}

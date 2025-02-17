@@ -1,0 +1,15 @@
+{"time":"2025-02-09T14:10:59.001421898+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250209_141058-19o2inen/logs/debug-core.log"}
+{"time":"2025-02-09T14:10:59.109562287+08:00","level":"INFO","msg":"created new stream","id":"19o2inen"}
+{"time":"2025-02-09T14:10:59.109609779+08:00","level":"INFO","msg":"stream: started","id":"19o2inen"}
+{"time":"2025-02-09T14:10:59.109676269+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"19o2inen"}
+{"time":"2025-02-09T14:10:59.10974632+08:00","level":"INFO","msg":"sender: started","stream_id":"19o2inen"}
+{"time":"2025-02-09T14:10:59.109811622+08:00","level":"INFO","msg":"handler: started","stream_id":"19o2inen"}
+{"time":"2025-02-09T14:10:59.112757344+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T14:11:00.904298553+08:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":11}
+{"time":"2025-02-09T14:11:00.920419877+08:00","level":"INFO","msg":"stream: closing","id":"19o2inen"}
+{"time":"2025-02-09T14:11:00.920459059+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T14:11:00.921218938+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T14:11:00.921378038+08:00","level":"INFO","msg":"handler: closed","stream_id":"19o2inen"}
+{"time":"2025-02-09T14:11:00.92139466+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"19o2inen"}
+{"time":"2025-02-09T14:11:00.921402972+08:00","level":"INFO","msg":"sender: closed","stream_id":"19o2inen"}
+{"time":"2025-02-09T14:11:00.921495582+08:00","level":"INFO","msg":"stream: closed","id":"19o2inen"}

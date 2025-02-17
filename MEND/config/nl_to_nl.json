@@ -1,0 +1,10 @@
+{
+    "train": [
+      "nl2bash"
+    ],
+    "test":[
+      "nl2bash"
+    ], 
+    "unseen_domain_test": [
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+  "train": [
+    "sst5"
+  ],
+  "test": [
+    "sst5"
+  ],
+  "unseen_domain_test": [
+  ]
+}

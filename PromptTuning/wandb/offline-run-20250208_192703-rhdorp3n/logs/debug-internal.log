@@ -1,0 +1,14 @@
+{"time":"2025-02-08T19:27:03.698097928+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250208_192703-rhdorp3n/logs/debug-core.log"}
+{"time":"2025-02-08T19:27:03.806434934+08:00","level":"INFO","msg":"created new stream","id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:03.806494299+08:00","level":"INFO","msg":"stream: started","id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:03.806572662+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:03.806634401+08:00","level":"INFO","msg":"sender: started","stream_id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:03.806662897+08:00","level":"INFO","msg":"handler: started","stream_id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:03.855127577+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-08T19:27:33.760908228+08:00","level":"INFO","msg":"stream: closing","id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:33.760967593+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-08T19:27:33.761860448+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-08T19:27:33.761980366+08:00","level":"INFO","msg":"handler: closed","stream_id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:33.761994614+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:33.762017173+08:00","level":"INFO","msg":"sender: closed","stream_id":"rhdorp3n"}
+{"time":"2025-02-08T19:27:33.762101471+08:00","level":"INFO","msg":"stream: closed","id":"rhdorp3n"}

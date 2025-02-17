@@ -1,0 +1,66 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "sst5",
+  "dataset_size": 1517214,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/SetFit/sst5@e51bdcd8cd3a30da231967c1a249ba59361279a3/train.jsonl": {
+      "num_bytes": 1323698,
+      "checksum": null
+    },
+    "hf://datasets/SetFit/sst5@e51bdcd8cd3a30da231967c1a249ba59361279a3/dev.jsonl": {
+      "num_bytes": 171422,
+      "checksum": null
+    },
+    "hf://datasets/SetFit/sst5@e51bdcd8cd3a30da231967c1a249ba59361279a3/test.jsonl": {
+      "num_bytes": 342783,
+      "checksum": null
+    }
+  },
+  "download_size": 1837903,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "label_text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3355117,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1092518,
+      "num_examples": 8544,
+      "dataset_name": "sst5"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 141651,
+      "num_examples": 1101,
+      "dataset_name": "sst5"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 283045,
+      "num_examples": 2210,
+      "dataset_name": "sst5"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

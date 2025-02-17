@@ -1,0 +1,14 @@
+{"time":"2025-02-09T14:23:58.322770426+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250209_142357-cfdovulj/logs/debug-core.log"}
+{"time":"2025-02-09T14:23:58.430945299+08:00","level":"INFO","msg":"created new stream","id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.43100229+08:00","level":"INFO","msg":"stream: started","id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.43111271+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.431136456+08:00","level":"INFO","msg":"handler: started","stream_id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.431141206+08:00","level":"INFO","msg":"sender: started","stream_id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.434906174+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T14:23:58.517625063+08:00","level":"INFO","msg":"stream: closing","id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.517674931+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T14:23:58.587672951+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T14:23:58.587835613+08:00","level":"INFO","msg":"handler: closed","stream_id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.587855798+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.587874795+08:00","level":"INFO","msg":"sender: closed","stream_id":"cfdovulj"}
+{"time":"2025-02-09T14:23:58.587955532+08:00","level":"INFO","msg":"stream: closed","id":"cfdovulj"}

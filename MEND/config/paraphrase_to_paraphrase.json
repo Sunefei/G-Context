@@ -1,0 +1,10 @@
+{
+    "train": [
+      "smcalflow"
+    ],
+    "test": [
+      "smcalflow"
+    ],
+    "unseen_domain_test": [
+    ]
+  }

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="buzz2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpt6-vt-a10">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpt7-vt-a10">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpt8-vt-a10">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu01-ohio">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu02-ohio">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu03-ohio">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu04-ohio">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu05-ohio">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu1-vt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu2-vt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu3-vt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu4-vt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gpu5-vt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="MetaICL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="harvard">
+        <serverdata>
+          <mappings>
+            <mapping deploy="ContextDistillation" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

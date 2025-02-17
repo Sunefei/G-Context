@@ -1,0 +1,7 @@
+{"time":"2025-02-16T15:58:37.286447449+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/PromptTuning/wandb/offline-run-20250216_155836-qdfjt5e2/logs/debug-core.log"}
+{"time":"2025-02-16T15:58:37.395001534+08:00","level":"INFO","msg":"created new stream","id":"qdfjt5e2"}
+{"time":"2025-02-16T15:58:37.395045466+08:00","level":"INFO","msg":"stream: started","id":"qdfjt5e2"}
+{"time":"2025-02-16T15:58:37.395098895+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"qdfjt5e2"}
+{"time":"2025-02-16T15:58:37.395129766+08:00","level":"INFO","msg":"sender: started","stream_id":"qdfjt5e2"}
+{"time":"2025-02-16T15:58:37.395160637+08:00","level":"INFO","msg":"handler: started","stream_id":"qdfjt5e2"}
+{"time":"2025-02-16T15:58:37.409615201+08:00","level":"INFO","msg":"Starting system monitor"}

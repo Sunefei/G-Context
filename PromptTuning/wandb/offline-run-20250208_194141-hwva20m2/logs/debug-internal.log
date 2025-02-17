@@ -1,0 +1,14 @@
+{"time":"2025-02-08T19:41:42.001342176+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250208_194141-hwva20m2/logs/debug-core.log"}
+{"time":"2025-02-08T19:41:42.10989183+08:00","level":"INFO","msg":"created new stream","id":"hwva20m2"}
+{"time":"2025-02-08T19:41:42.109939323+08:00","level":"INFO","msg":"stream: started","id":"hwva20m2"}
+{"time":"2025-02-08T19:41:42.110030745+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"hwva20m2"}
+{"time":"2025-02-08T19:41:42.110058054+08:00","level":"INFO","msg":"handler: started","stream_id":"hwva20m2"}
+{"time":"2025-02-08T19:41:42.110232588+08:00","level":"INFO","msg":"sender: started","stream_id":"hwva20m2"}
+{"time":"2025-02-08T19:41:42.146303012+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-08T19:42:32.246825607+08:00","level":"INFO","msg":"stream: closing","id":"hwva20m2"}
+{"time":"2025-02-08T19:42:32.246871912+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-08T19:42:32.247703028+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-08T19:42:32.247857378+08:00","level":"INFO","msg":"handler: closed","stream_id":"hwva20m2"}
+{"time":"2025-02-08T19:42:32.247875187+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hwva20m2"}
+{"time":"2025-02-08T19:42:32.247882311+08:00","level":"INFO","msg":"sender: closed","stream_id":"hwva20m2"}
+{"time":"2025-02-08T19:42:32.247967798+08:00","level":"INFO","msg":"stream: closed","id":"hwva20m2"}

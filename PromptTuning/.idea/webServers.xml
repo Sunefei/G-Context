@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd93250b-2d16-4ea5-aa93-2a5ef39d3239" name="gpu04-ohio">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.132.182.76" port="22" sshConfigId="6d340af5-5914-47c1-8112-0dc3a913646a" sshConfig="gpu4-ohio" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e9a0a999-58d5-4b3a-a558-9e33e88c7e11" name="gpu05-ohio">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.130.85.225" port="22" sshConfigId="c3059d70-7322-44f7-9688-d49af0fb19d6" sshConfig="gpu5-ohio" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="721ca6f6-d58d-40e9-a6ed-0df695c16316" name="gpu02-ohio">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="18.190.123.88" port="22" sshConfigId="dfed2a78-f7f7-4d7a-8a2b-a0ea60716261" sshConfig="gpu2-ohio" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="241bd095-b6fa-47be-817f-aa9103dbbbb0" name="gpu03-ohio">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.129.197.189" port="22" sshConfigId="67079362-7d83-4947-8700-bddee5f1f6f1" sshConfig="gpu3-ohio" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="27c3800e-cd62-4b31-b32d-2f288a29a208" name="gpu01-ohio">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="18.222.125.55" port="22" sshConfigId="f0e8c25f-5df5-484d-ac10-100b7bfe17a5" sshConfig="gpu1-ohio" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="99822e83-8f52-4afc-b0d0-343b1a2ed8bf" name="gpu2-vt">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="52.6.248.53" port="22" sshConfigId="3afc4c1f-92ed-421a-b1ae-d4fd50fe4d8a" sshConfig="gpu2-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="eb98d18e-1bfe-4479-aaa1-71cceb01ef30" name="gpu1-vt">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.225.125.30" port="22" sshConfigId="bad69df1-0038-4273-9b1a-19b5df46867f" sshConfig="gpu1-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a0890b19-0a46-4713-aa4c-0db99e375ea9" name="gpu3-vt">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="18.211.220.252" port="22" sshConfigId="ade9f7bd-53af-4af5-8830-041b0a727446" sshConfig="gpu3-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3a0dbd13-5e67-417b-b39f-f40076ea7bf8" name="gpu4-vt">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="44.217.15.40" port="22" sshConfigId="f626b40e-aaef-4966-9a36-b5b8c82a3767" sshConfig="gpu4-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d227038a-9015-4ccc-85a4-4b524b0d51cf" name="gpu5-vt">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.235.224.84" port="22" sshConfigId="8e3bec79-74fc-48c4-99ce-a311de93393e" sshConfig="gpu7-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="44a37c5e-dd5f-4677-96ec-8cf28d12e238" name="gpt6-vt-a10">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.91.63.149" port="22" sshConfigId="0465145c-bbed-4473-928e-8cad84b0e9d3" sshConfig="gpu6-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="27ec0279-0180-4ee5-9e82-153401664ae0" name="gpt7-vt-a10">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.235.224.84" port="22" sshConfigId="8e3bec79-74fc-48c4-99ce-a311de93393e" sshConfig="gpu7-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="253ebda7-0639-473a-aa27-594507fef61e" name="gpt8-vt-a10">
+        <fileTransfer rootFolder="/home/ec2-user" accessType="SFTP" host="3.237.0.151" port="22" sshConfigId="0bcf6cc2-70c6-44fc-9a5d-3266062bf619" sshConfig="gpu8-vt" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>ohio</name>
+        <servers>
+          <name value="gpu04-ohio" />
+          <name value="gpu05-ohio" />
+          <name value="gpu02-ohio" />
+          <name value="gpu03-ohio" />
+          <name value="gpu01-ohio" />
+        </servers>
+      </group>
+      <group>
+        <name>vt</name>
+        <servers>
+          <name value="gpu2-vt" />
+          <name value="gpu1-vt" />
+          <name value="gpu3-vt" />
+          <name value="gpu4-vt" />
+          <name value="gpu5-vt" />
+          <name value="gpt6-vt-a10" />
+          <name value="gpt7-vt-a10" />
+          <name value="gpt8-vt-a10" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</project>

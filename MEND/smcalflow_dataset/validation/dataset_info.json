@@ -1,0 +1,60 @@
+{
+  "builder_name": "parquet",
+  "citation": " ",
+  "config_name": "smcalflow",
+  "dataset_name": "smcalflow",
+  "dataset_size": 105015303,
+  "description": " ",
+  "download_checksums": {
+    "hf://datasets/iohadrubin/smcalflow@a0ed8c33488700ea703606bbdf9d957bba1d27e9/smcalflow/train/0000.parquet": {
+      "num_bytes": 17646440,
+      "checksum": null
+    },
+    "hf://datasets/iohadrubin/smcalflow@a0ed8c33488700ea703606bbdf9d957bba1d27e9/smcalflow/validation/0000.parquet": {
+      "num_bytes": 1959805,
+      "checksum": null
+    }
+  },
+  "download_size": 19606245,
+  "features": {
+    "idx": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "user_utterance": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lispress": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fully_typed_lispress": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 124621548,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 94618369,
+      "num_examples": 133584,
+      "dataset_name": "smcalflow"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 10396934,
+      "num_examples": 14751,
+      "dataset_name": "smcalflow"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

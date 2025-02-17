@@ -1,0 +1,15 @@
+{"time":"2025-02-09T14:17:27.689768188+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250209_141727-5e3aqj05/logs/debug-core.log"}
+{"time":"2025-02-09T14:17:27.796488587+08:00","level":"INFO","msg":"created new stream","id":"5e3aqj05"}
+{"time":"2025-02-09T14:17:27.796525394+08:00","level":"INFO","msg":"stream: started","id":"5e3aqj05"}
+{"time":"2025-02-09T14:17:27.796607318+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"5e3aqj05"}
+{"time":"2025-02-09T14:17:27.796666684+08:00","level":"INFO","msg":"sender: started","stream_id":"5e3aqj05"}
+{"time":"2025-02-09T14:17:27.796620379+08:00","level":"INFO","msg":"handler: started","stream_id":"5e3aqj05"}
+{"time":"2025-02-09T14:17:27.815812098+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T14:18:54.967844619+08:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":14}
+{"time":"2025-02-09T14:18:54.972557063+08:00","level":"INFO","msg":"stream: closing","id":"5e3aqj05"}
+{"time":"2025-02-09T14:18:54.972618803+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T14:18:54.973516411+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T14:18:54.973701632+08:00","level":"INFO","msg":"handler: closed","stream_id":"5e3aqj05"}
+{"time":"2025-02-09T14:18:54.973719442+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5e3aqj05"}
+{"time":"2025-02-09T14:18:54.973725378+08:00","level":"INFO","msg":"sender: closed","stream_id":"5e3aqj05"}
+{"time":"2025-02-09T14:18:54.973827487+08:00","level":"INFO","msg":"stream: closed","id":"5e3aqj05"}

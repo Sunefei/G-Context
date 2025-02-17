@@ -1,0 +1,15 @@
+{"time":"2025-02-09T14:14:42.311873374+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/data/syf/wzs/prompt-tuning(MEND)/wandb/offline-run-20250209_141441-naiavhk6/logs/debug-core.log"}
+{"time":"2025-02-09T14:14:42.420232252+08:00","level":"INFO","msg":"created new stream","id":"naiavhk6"}
+{"time":"2025-02-09T14:14:42.420283307+08:00","level":"INFO","msg":"stream: started","id":"naiavhk6"}
+{"time":"2025-02-09T14:14:42.420378292+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"naiavhk6"}
+{"time":"2025-02-09T14:14:42.420417473+08:00","level":"INFO","msg":"handler: started","stream_id":"naiavhk6"}
+{"time":"2025-02-09T14:14:42.420476839+08:00","level":"INFO","msg":"sender: started","stream_id":"naiavhk6"}
+{"time":"2025-02-09T14:14:42.439513018+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T14:14:44.58492477+08:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":11}
+{"time":"2025-02-09T14:14:44.599311435+08:00","level":"INFO","msg":"stream: closing","id":"naiavhk6"}
+{"time":"2025-02-09T14:14:44.599355365+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T14:14:44.600028571+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T14:14:44.600134242+08:00","level":"INFO","msg":"handler: closed","stream_id":"naiavhk6"}
+{"time":"2025-02-09T14:14:44.600147303+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"naiavhk6"}
+{"time":"2025-02-09T14:14:44.600181735+08:00","level":"INFO","msg":"sender: closed","stream_id":"naiavhk6"}
+{"time":"2025-02-09T14:14:44.600223291+08:00","level":"INFO","msg":"stream: closed","id":"naiavhk6"}

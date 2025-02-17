@@ -1,0 +1,10 @@
+{
+  "train": [
+    "swag"
+  ],
+  "test":[
+    "swag"
+  ], 
+  "unseen_domain_test": [
+  ]
+}

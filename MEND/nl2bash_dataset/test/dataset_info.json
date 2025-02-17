@@ -1,0 +1,62 @@
+{
+  "builder_name": "parquet",
+  "citation": "@inproceedings{LinWZE2018:NL2Bash, \n  author = {Xi Victoria Lin and Chenglong Wang and Luke Zettlemoyer and Michael D. Ernst}, \n  title = {NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System}, \n  booktitle = {Proceedings of the Eleventh International Conference on Language Resources\n               and Evaluation {LREC} 2018, Miyazaki (Japan), 7-12 May, 2018.},\n  year = {2018} \n}\n",
+  "config_name": "default",
+  "dataset_name": "nl2bash",
+  "dataset_size": 1177527,
+  "description": "The dataset is constructed from\nhttps://github.com/TellinaTool/nl2bash\n",
+  "download_checksums": {
+    "hf://datasets/jiacheng-ye/nl2bash@9a6e6b36929bd89f732bef2fd2421eac10b71040/default/train/0000.parquet": {
+      "num_bytes": 435351,
+      "checksum": null
+    },
+    "hf://datasets/jiacheng-ye/nl2bash@9a6e6b36929bd89f732bef2fd2421eac10b71040/default/validation/0000.parquet": {
+      "num_bytes": 40558,
+      "checksum": null
+    },
+    "hf://datasets/jiacheng-ye/nl2bash@9a6e6b36929bd89f732bef2fd2421eac10b71040/default/test/0000.parquet": {
+      "num_bytes": 40709,
+      "checksum": null
+    }
+  },
+  "download_size": 516618,
+  "features": {
+    "nl": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bash": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1694145,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1020759,
+      "num_examples": 8090,
+      "dataset_name": "nl2bash"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 77967,
+      "num_examples": 609,
+      "dataset_name": "nl2bash"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 78801,
+      "num_examples": 606,
+      "dataset_name": "nl2bash"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
